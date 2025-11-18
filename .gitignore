@@ -1,0 +1,15 @@
+# Ignore archives and backups
+*.zip
+*.tar
+*.gz
+
+# Ignore build/output folders
+/dist/
+/build/
+/cgi-bin/
+
+# Ignore node dependencies
+/node_modules/
+
+# Ignore logs
+*.log
