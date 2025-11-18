@@ -47,4 +47,4 @@ All content lives in `index.html`:
 ## 📌 Credits
 
 Developed for **Winter Camp 2025**.  
-Design and content provided by camp organizers.
+Design and developed by Zoqube.
